@@ -1,8 +1,8 @@
 # StackVerify
 
-StackVerify is a unified messaging and verification platform that enables businesses to communicate across Email, SMS, and WhatsApp through a single, reliable system.
+StackVerify is an API-first platform that helps developers build applications faster without managing backend infrastructure.
 
-The platform is designed to reduce operational complexity, improve delivery reliability, and support automation at scale.
+Our products provide simple, reliable APIs for collecting data, automating workflows, and integrating communication services into modern applications.
 
 ---
 
@@ -16,9 +16,11 @@ The platform is designed to reduce operational complexity, improve delivery reli
 
 ## What StackVerify Solves
 
+We're building developer tools that remove backend complexity, allowing businesses and developers to focus on building great products instead of infrastructure.
 Many organizations rely on multiple tools for customer communication, leading to fragmented workflows, higher costs, and limited visibility.
 
 StackVerify provides:
+- API-powered form endpoints
 - Centralized multi-channel messaging
 - Automated campaigns and workflows
 - Unified contact and delivery tracking
@@ -57,7 +59,10 @@ Integrate StackVerify into existing systems using a secure and extensible API.
 ---
 
 ## Use Cases
-
+- Order processing
+- leads collections
+- contact pages intergration
+- promotional messages
 - Transactional notifications
 - Customer engagement and marketing
 - Authentication and verification workflows
