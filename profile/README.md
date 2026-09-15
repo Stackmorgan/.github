@@ -10,9 +10,9 @@ Our products provide simple, reliable APIs for collecting data, automating workf
 
 ## Platform
 
-[![Website](https://img.shields.io/badge/Website-stackverify.site-black?logo=google-chrome&logoColor=white)](https://stackverify.site)
-[![Status](https://img.shields.io/badge/Status-Production-green)](https://stackverify.site)
-[![API](https://img.shields.io/badge/API-Available-blue)](https://stackverify.site)
+[![Website](https://img.shields.io/badge/Website-stackverify.site-black?logo=google-chrome&logoColor=white)](https://stack-verify.com)
+[![Status](https://img.shields.io/badge/Status-Production-green)](https://stack-verify.com)
+[![API](https://img.shields.io/badge/API-Available-blue)](https://stack-verify.com)
 
 ---
 
@@ -83,8 +83,8 @@ Integrate StackVerify into existing systems using a secure and extensible API.
 
 ## Resources
 
-[![Documentation](https://img.shields.io/badge/Docs-StackVerify-blue?logo=readthedocs&logoColor=white)](https://stackverify.site)
-[![Support](https://img.shields.io/badge/Support-StackVerify-lightgrey)](https://stackverify.site)
+[![Documentation](https://img.shields.io/badge/Docs-StackVerify-blue?logo=readthedocs&logoColor=white)](https://stack-verify.com)
+[![Support](https://img.shields.io/badge/Support-StackVerify-lightgrey)](https://stack-verify.com)
 
 ---
 
@@ -100,8 +100,8 @@ Integrate StackVerify into existing systems using a secure and extensible API.
 
 ## Get Started
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-StackVerify-black)](https://stackverify.site)
-[![Free Trial](https://img.shields.io/badge/Free%20Trial-Available-green)](https://stackverify.site/api-reference)
+[![Get Started](https://img.shields.io/badge/Get%20Started-StackVerify-black)](https://stack-verify.com)
+[![Free Trial](https://img.shields.io/badge/Free%20Trial-Available-green)](https://stack-verify.com/api-reference)
 
 ---
 
